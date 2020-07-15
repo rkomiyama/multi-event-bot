@@ -1,0 +1,23 @@
+{
+  "name": "multi-event-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for RSVPing multiple events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkomiyama/multi-event-bot.git"
+  },
+  "author": "Ryu Komiyama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rkomiyama/multi-event-bot/issues"
+  },
+  "homepage": "https://github.com/rkomiyama/multi-event-bot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.38.0"
+  }
+}
